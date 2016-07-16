@@ -1,5 +1,5 @@
 
-Configuration di Raspberry LCD for RuneAudio
+Configuration of Raspberry LCD for RuneAudio
 ===
 
 Resize filesystem
