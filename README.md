@@ -26,19 +26,19 @@ Now reboot. Once rebooted:
 resize2fs /dev/mmcblk0p2
 ````
 
-Aggiornamento libreria package manager
+Update pacman librariesr
 ---
 ```
 pacman -Syy 
 ````
 
-Installazione fbturbo
+Installation of fbturbo
 ---
 ```
 pacman -S xf86-video-fbturbo-git
 ```
 
-Aggiornamento firmware raspberry
+raspberry firmware update
 ---
 ```
 wget https://raw.githubusercontent.com/Hexxeh/rpi-update/master/rpi-update -O /usr/bin/rpi-update
@@ -48,9 +48,9 @@ BRANCH=builtin
 rpi-update
 ````
 
-Scaricare il driver
+Driver download
 ---
-Da http://www.waveshare.com/wiki/3.2inch_RPi_LCD_(B)#Driver
+From: http://www.waveshare.com/wiki/3.2inch_RPi_LCD_(B)#Driver
 ```
 wget http://www.waveshare.com/w/upload/2/24/LCD-show-160520.tar.gz
 
