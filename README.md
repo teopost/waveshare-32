@@ -45,4 +45,13 @@ wget http://www.waveshare.com/w/upload/2/24/LCD-show-160520.tar.gz
 cd ./LCD-show
 
 
-
+Resources
+---
+* http://www.runeaudio.com/
+* http://www.banggood.com/3_2-Inch-TFT-LCD-Display-Module-Touch-Screen-For-Raspberry-Pi-B-B-A-p-1011516.html
+* http://www.waveshare.com/wiki/3.2inch_RPi_LCD_(B)#Driver
+* https://github.com/notro/rpi-firmware/issues/6
+* http://www.circuitbasics.com/setup-lcd-touchscreen-raspberry-pi
+* http://haifux.org/lectures/86-sil/kernel-modules-drivers/kernel-modules-drivers.html
+* https://github.com/WilhelmThor/lcd32
+* 
