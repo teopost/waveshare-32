@@ -24,7 +24,9 @@ resize2fs /dev/mmcblk0p2
 
 Aggiornamento libreria package manager
 ---
+```
 pacman -Syy 
+````
 
 Installazione fbturbo
 ---
