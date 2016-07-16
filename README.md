@@ -28,7 +28,7 @@ Now reboot. Once rebooted:
 resize2fs /dev/mmcblk0p2
 ````
 
-Update pacman librariesr
+Update pacman libraries
 ---
 ```
 pacman -Syy 
