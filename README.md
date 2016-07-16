@@ -1,6 +1,8 @@
 
 Configuration of Raspberry LCD for RuneAudio
 ===
+Configuration for this: http://www.banggood.com/3_2-Inch-TFT-LCD-Display-Module-Touch-Screen-For-Raspberry-Pi-B-B-A-p-1011516.html
+
 
 Resize filesystem
 ---
