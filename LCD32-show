@@ -1,0 +1,8 @@
+mkdir /etc/X11/xorg.conf.d
+cp ./waveshare32b-overlay.dtb /boot/overlays/waveshare32b.dtbo
+cp -rf ./etc/X11/xorg.conf.d/99-calibration.conf-32  /etc/X11/xorg.conf.d/99-calibration.conf
+cp -rf ./usr/share/X11/xorg.conf.d/99-fbturbo.conf  /usr/share/X11/xorg.conf.d/
+cp ./cmdline.txt /boot/
+cp ./inittab /etc/
+cp ./boot/config-32.txt /boot/config.txt
+echo "fai il reboot"
