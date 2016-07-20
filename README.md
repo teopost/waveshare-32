@@ -58,6 +58,14 @@ wget http://www.waveshare.com/w/upload/2/24/LCD-show-160520.tar.gz
 
 cd ./LCD-show
 ```
+Run midori with iphone user agent
+---
+* Open /root/.config/midori/cofig file
+* Change user-agent with 
+
+```
+user-agent=Mozilla/5.0 (iPhone; U; CPU like Mac OS X; it-it) AppleWebKit/532+ (KHTML, like Gecko) Version/3.0 Mobile/1A538b Safari/419.3 Midori/0.4
+```
 
 Resources
 ---
